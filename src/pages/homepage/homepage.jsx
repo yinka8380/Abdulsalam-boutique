@@ -1,7 +1,11 @@
 import './homepage.scss'
+import Directory from '../../components/directory/directory';
 const Homepage=()=>{
-return(
-    <div className="homepage">
+return(<div className='homepage'>
+  <Directory/>
+</div>)}
+export default Homepage
+   /*<div className="homepage">
         <div className=" directory-menu">
             <div className="menu-item">
             <div className="content">
@@ -35,6 +39,4 @@ return(
             </div>
         </div>
     </div>
-)
-}
-export default Homepage;
+*/
