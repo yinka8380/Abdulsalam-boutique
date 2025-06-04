@@ -13,7 +13,7 @@ class Directory extends Component{
             },
             {
                 title: "Jacket",
-                imageUrl:"https://purepng.com/public/uploads/large/purepng.com-black-jacketgarmentupper-bodyjacketlighterblack-1421526361918vl4y3.png",
+                imageUrl:"https://i.ibb.co/px2tCc3/jackets.png",
                 size:"small",
                 id:2
 
@@ -32,7 +32,7 @@ class Directory extends Component{
             },
             {
                 title: "Women",
-                imageUrl:"https://www.pngmart.com/files/7/Lady-PNG-Transparent-Image.png",
+                imageUrl:"https://i.ibb.co/GCCdy8t/womens.png",
                 size:"large",
                 id: 5
             }
